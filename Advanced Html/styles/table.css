@@ -1,0 +1,11 @@
+table,th,td {
+    border:2px solid chartreuse;
+    border-collapse: collapse;
+    /*size,style,color */
+}
+table tr:nth-child(even){
+    background-color: indianred;
+}
+body{
+    background-color: gold;
+}
